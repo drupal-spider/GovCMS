@@ -106,7 +106,7 @@
         "drupal/shield": "1.8.0",
         "drupal/simple_oauth": "5.2.5",
         "drupal/simple_sitemap": "4.2.1",
-        "drupal/simplesamlphp_auth": "4.0.0",
+        "drupal/simplesamlphp_auth": "4.0.1",
         "drupal/symfony_mailer": "1.5.0",
         "drupal/token": "1.15.0",
         "drupal/tfa": "1.9.0",
@@ -115,7 +115,7 @@
         "drupal/webform": "6.2.7",
         "govcms-assets/chosen": "2.2.1",
         "oomphinc/composer-installers-extender": "^2.0",
-        "simplesamlphp/simplesamlphp": "2.3.2",
+        "simplesamlphp/simplesamlphp": "2.3.5",
         "webflo/drupal-finder": "^1.2"
     },
     "require-dev": {
