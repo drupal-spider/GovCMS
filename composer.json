@@ -24,9 +24,9 @@
         "drupal/admin_toolbar": "3.6.2",
         "drupal/anchor_link": "3.0.3",
         "drupal/bigmenu": "2.1.0",
-        "drupal/book": "2.0.2",
+        "drupal/book": "2.0.4",
         "drupal/captcha": "2.0.9",
-        "drupal/chosen": "5.0.2",
+        "drupal/chosen": "5.0.3",
         "drupal/components": "3.1.0",
         "drupal/config_ignore": "3.3.0",
         "drupal/config_perms": "2.3.0",
@@ -80,7 +80,7 @@
         "drupal/menu_trail_by_path": "2.2.0",
         "drupal/metatag": "2.2.0",
         "drupal/migrate_file": "3.0.0-alpha1",
-        "drupal/migrate_plus": "6.0.8",
+        "drupal/migrate_plus": "6.0.9",
         "drupal/migrate_source_csv": "3.7.0",
         "drupal/migrate_tools": "6.1.2",
         "drupal/minisite": "3.0.2",
@@ -95,7 +95,7 @@
         "drupal/redirect": "1.11.0",
         "drupal/rest_menu_items": "3.0.5",
         "drupal/robotstxt": "1.6.0",
-        "drupal/role_delegation": "1.4.0",
+        "drupal/role_delegation": "1.5.0",
         "drupal/scheduled_transitions": "2.8.3",
         "drupal/search_api": "1.40.0",
         "drupal/search_api_attachments": "10.0.5",
@@ -113,7 +113,7 @@
         "drupal/twig_tweak": "3.4.1",
         "drupal/username_enumeration_prevention": "1.4.0",
         "drupal/views_data_export": "1.8.0",
-        "drupal/webform": "6.3.0-beta6",
+        "drupal/webform": "6.3.0-beta7",
         "govcms-assets/chosen": "3.0.1",
         "govcms-assets/dropzone": "5.9.3",
         "oomphinc/composer-installers-extender": "^2.0",
@@ -169,7 +169,7 @@
                 "AJAX error when password field is hidden - https://www.drupal.org/project/password_policy/issues/3442714": "https://www.drupal.org/files/issues/2024-07-26/password_policy-3442714-7.patch"
             },
             "drupal/tfa": {
-                "Create Email one-time-code Validation Plugin & related Setup Plugin - https://www.drupal.org/project/tfa/issues/2930541": "https://www.drupal.org/files/issues/2023-07-19/tfa-2930541-81.patch"
+                "Create Email one-time-code Validation Plugin & related Setup Plugin - https://www.drupal.org/project/tfa/issues/2930541": "https://www.drupal.org/files/issues/2026-01-13/tfa-2930541-94.patch"
             }
         }
     },
