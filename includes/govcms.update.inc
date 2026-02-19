@@ -9,5 +9,5 @@
  * Implements hook_update_last_removed().
  */
 function govcms_update_last_removed() {
-  return 10009;
+  return 10012;
 }

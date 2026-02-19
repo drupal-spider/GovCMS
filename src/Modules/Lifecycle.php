@@ -35,6 +35,7 @@ class Lifecycle {
     'purge_purger_http',
     'redirect_404',
     'restui',
+    'services_tfa',
     'video_embed_field',
   ];
 
