@@ -35,7 +35,7 @@ services:
         # Tooling.
         - apt-get update
         - apt-get install -y libbz2-dev libzip-dev
-        - docker-php-ext-install opcache bz2 zip
+        - docker-php-ext-install opcache bz2 zip bcmath
         - a2enmod headers rewrite
 
         # Clean up. This keeps image storage tighter on Tugboat.

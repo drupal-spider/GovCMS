@@ -4,6 +4,7 @@ description: Enhance security of GovCMS websites.
 package: GovCMS
 core_version_requirement: ^9 || ^10 || ^11
 dependencies:
+  - drupal:ban
   - encrypt:encrypt
   - event_log_track:event_log_track
   - event_log_track:event_log_track_auth
